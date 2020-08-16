@@ -1,2 +1,2 @@
-# second_day_of_army
+# first_day_of_army
 Created with CodeSandbox
